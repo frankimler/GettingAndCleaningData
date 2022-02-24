@@ -4,7 +4,7 @@ Steps to Follow:
 1.  Download the run_analysis.R file in this repo into the working directory in R Studio
 2.  Execute the R script*
 
-*Note - this R script uses the dplyr package so please make sure it is installed and up-to-date on your system.  Also, this script requires that the data be in unaltered.
+*Note - this R script uses the dplyr package so please make sure it is installed and up-to-date on your system.  Also, this script requires that the data be unaltered.
 
 Data Source:
 
