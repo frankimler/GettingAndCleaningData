@@ -1,6 +1,6 @@
 # GettingAndCleaningData
 
-This repo is for the John Hopkins University Data Science Specialization, Getting and Cleaning Data, Week 4 Course Project.  It contains the R code, codebook and tidey data set for the project.  This repo contains the following files:
+This repo is for the John Hopkins University Data Science Specialization, Getting and Cleaning Data, Week 4 Course Project.  It contains the R code, codebook and tidy data set for the project.  This repo contains the following files:
 
 - codebook.md - this files describes the data, code and the work that was done to clean and prepare the data.
 
